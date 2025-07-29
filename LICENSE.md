@@ -22,4 +22,4 @@ By contributing, you agree to license your contributions under this same license
 
 **Full License Text:** [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
-For commercial use or licensing exceptions, please contact [ivocreates@gmail.com](mailto:ivocreates@gmail.com).
+For commercial use or licensing exceptions, please contact [ivopereiraix3@gmail.com](mailto:ivopereiraix3@gmail.com).
