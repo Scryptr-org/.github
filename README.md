@@ -50,7 +50,7 @@ Contributions without permission, or violating terms, will be rejected.
 
 You must **submit a request for access** via:
 
-> 📧 Email: [ivocreates@gmail.com](mailto:ivocreates@gmail.com)
+> 📧 Email: [ivopereiraix3@gmail.com](mailto:ivopereiraix3@gmail.com)
 > 📝 GitHub Issue: [Open a contribution request issue](https://github.com/Scryptr/.github/issues/new?template=contribution-request.md)  
 > Or DM me via LinkedIn: [Ivo Pereira](https://www.linkedin.com/in/pereira-ivo/)
 
